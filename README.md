@@ -1,4 +1,4 @@
-# Fraud-Detection---ML-Project
+# Fraud-Detection - ML-Project
 Fraud Detection - ML Project
 
 In this Project we will determine fraud by using data. 
